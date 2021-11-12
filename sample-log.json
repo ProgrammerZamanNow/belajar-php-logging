@@ -1,0 +1,18 @@
+{
+  "message": "Belajar PHP Logging",
+  "context": {
+    "username": "khannedy"
+  },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "ProgrammerZamanNow\\Belajar\\PHP\\MVC\\FormatterTest",
+  "datetime": "2021-11-12T14:31:56.716943+07:00",
+  "extra": {
+    "hostname": "Ekos-MacBook-Pro.local",
+    "memory_usage": "4 MB",
+    "git": {
+      "branch": "master",
+      "commit": "2ef899fe75cdaa22cd2ea6ba1876f4dd8d336d6b"
+    }
+  }
+}
